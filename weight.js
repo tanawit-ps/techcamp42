@@ -1,0 +1,1 @@
+console.log("10 kgs to your goal")
